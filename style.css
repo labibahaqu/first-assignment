@@ -1,0 +1,242 @@
+.assainment-TITLE{
+font-weight: bold;
+font-size: 28px;
+color:0D1321 ;
+display:flex;
+align-items: center;
+justify-content: space-between;
+margin: 50px 200px;
+}
+
+.img{
+    background-image: url(./assets/Hero-bg.png);
+    height: 652px;
+    
+    background-size: cover;
+
+    
+}
+.stc{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title{
+    text-align: center;
+    color:#0D1321;
+
+}
+.PIC{
+    color: black;
+    text-align: center;
+}
+.OTP{
+    color: black;
+    text-align: center;
+}.NO{
+    color:aliceblue;
+    font-size: 20PX;
+    padding: 18PX 35px ;
+    border-radius:5PX ;
+    display: block;
+    margin: auto;
+    background-color: black;
+    
+
+}
+
+.btn-primary{
+    font-size: 20px;
+    color: black;
+    padding: 18px 35px;
+    border-radius: 5px;
+    background-color: white;
+}
+.restSections{
+    margin: 30px 100px;
+}
+.ok{
+    text-align: center;
+    font-weight: bold;
+}
+
+.or{
+    text-align: center;
+}
+.oma{
+    color:cadetblue;
+}
+.ti{
+    color: #ADC8F7;
+}
+.ou{
+  
+    color: #373A50;
+}
+.art{
+    display: block;
+    margin-left: auto;
+    height: 240px;
+    align-items: center;
+    
+}
+.ph{
+    color: #373A50;
+}
+on{
+    color: #ADC8F7;
+}
+.os{
+    color: #373A50;
+    padding:13px 35px ;
+}
+.oj{
+    color: #373A50;
+}
+.ol{
+    color: #ADC8F7;
+}
+.challenges{
+    border: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+}
+.OC{
+    font-weight: bold;
+    color: #0D1321;
+    text-align: center;
+    
+}
+.OB{
+    color:#373A50 ;
+    text-align: center;
+}.AS{
+    margin: 150PX;
+    
+}
+.OV{
+    text-align: center;
+    font-weight: bold;
+    
+}
+.OZ{
+    color: #373A50;
+    text-align: center;
+}
+.right{
+    margin-right: 10px;
+}
+.LOM{
+    color: #0D1321;
+    width: 80%;
+    margin: 30px auto;
+}
+.OTO{
+    font-size: 15PX;
+    color:#373A50;
+}
+.OP{
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;  
+    margin:20px 0px;  
+}
+.OM{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1140px;
+    height: 313px;
+    
+}
+.oit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.webH2{
+    color: rgb(13, 19, 33,0.7);
+}
+.mychallenges{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}   
+.learnMore{
+    background-color: white;
+    padding: 13px 35px;
+    border:1px solid black;
+    font-weight: bold;
+}
+.connect{
+    background-image: url(./assets/handshake.jpg);
+    height: 313px;
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+    background-size: cover;
+    padding-top: 100px;
+
+    
+}
+.anchorLearnMore{
+    color: black;
+}
+
+.css{
+    background-color: rgb(0, 76, 232,0.05);
+    padding: 20px;
+}
+.js{
+    background-color: rgb(255, 223, 0,0.05);
+    padding: 20px;
+}
+.html{
+    background-color: rgb(255, 76, 30,0.05);
+    padding: 20px;
+}
+.targetSections{
+    display: flex;
+    justify-content: space-between;
+
+}
+.video{
+    width: 100%;
+    height: 550;
+}
+.inspiration{
+    width: 80%;
+    text-align: center;
+    margin: 20px auto;
+}
+.why{
+    width: 75%;
+    margin: 70px auto;
+}
+.input{
+    padding: 15px;
+    border-radius: 20px;
+    border: 1px solid white;
+    width: 400px;
+}
+.submitButton{
+    padding: 10px 30px;
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 22px;
+    font-weight: bold;
+}
+    
+.footer{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 50px auto;
+    margin-bottom: 20px;
+}
+/* background-color: #FF4C1E;
+    opacity: 0.05;/*
